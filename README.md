@@ -28,10 +28,13 @@ Site-ul oferă turiștilor o experiență interactivă de navigare pentru explor
 Site-ul poate fi accesat online prin GitHub Pages la următorul link:  
 👉 **[Vezi site-ul live](https://daliaptv7.github.io/Web-Development-Project/)**
 
+---
+
 ##  Documentație
 
 Lucrarea scrisă pentru atestat poate fi consultată direct aici:  
 👉 **[Descarcă / Vizualizează Atestatul PDF](./Atestat.pdf)**
+
 ---
 
 ##  Autor
