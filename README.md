@@ -31,7 +31,7 @@ Site-ul poate fi accesat online prin GitHub Pages la următorul link:
 ##  Documentație
 
 Lucrarea scrisă pentru atestat poate fi consultată direct aici:  
-👉 **[Descarcă / Vizualizează Atestatul PDF](./Atestat HTML Prezentare (1).pdf)**
+👉 **[Descarcă / Vizualizează Atestatul PDF](./Atestat%20HTML%20Prezentare%20(1).pdf)**
 ---
 
 ##  Autor
